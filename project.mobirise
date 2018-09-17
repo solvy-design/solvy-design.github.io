@@ -40,7 +40,7 @@
     "versionPublish": "4.8.2",
     "favicon": "@PROJECT_PATH@/assets/images/solvy-logo-new-128x128.png",
     "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-125790536-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-125790536-1');\r\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-125790536-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-125790536-1');\r\n</script>\r\n\r\n<!-- Hotjar Tracking Code for solvy.com -->\r\n<script>\r\n    (function(h,o,t,j,a,r){\r\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\r\n        h._hjSettings={hjid:1010138,hjsv:6};\r\n        a=o.getElementsByTagName('head')[0];\r\n        r=o.createElement('script');r.async=1;\r\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\r\n        a.appendChild(r);\r\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": ""
   },
@@ -322,8 +322,8 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
-            "slides__autoplayInterval": 4000,
+            "slides__autoplay": true,
+            "slides__autoplayInterval": "4000",
             "slides__showBullets": true,
             "slides": [
               {

@@ -1607,8 +1607,69 @@ body {
     width: 100% !important;
   }
 }
-.cid-r3TMNQtSGb {
-  background-image: url("../../../assets/images/pic-6-2000x1125.jpg");
+.cid-r3Zm9Xjfed {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r3Zm9Xjfed .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r3Zm9Xjfed .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-r3Zm9Xjfed .mbr-text {
+  color: #767676;
+}
+.cid-r3Zm9Xjfed .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-r3Zm9Xjfed .mbr-author-name {
+  color: #767676;
+}
+.cid-r3Zm9Xjfed .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-r3Zm9Xjfed .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-r3Zm9Xjfed .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-r3Zm9Xjfed .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-r3Zm9Xjfed .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-r3Zm9Xjfed .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-r3Zm9Xjfed H2 {
+  color: #1d242e;
+}
+.cid-r3Zm9Xjfed B {
+  color: #09fcfa;
 }
 .cid-r3ToHBTSN4 {
   padding-top: 0px;
@@ -1630,6 +1691,32 @@ body {
 }
 @media (max-width: 768px) {
   .cid-r3ToHBTSN4 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-r3TMNQtSGb {
+  background-image: url("../../../assets/images/pic-6-2000x1125.jpg");
+}
+.cid-r3ZmfTMvZ9 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #1d242e;
+}
+.cid-r3ZmfTMvZ9 .line {
+  background-color: #1d242e;
+  color: #1d242e;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-r3ZmfTMvZ9 .section-text {
+  padding: 2rem 0;
+}
+.cid-r3ZmfTMvZ9 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r3ZmfTMvZ9 .inner-container {
     width: 100% !important;
   }
 }

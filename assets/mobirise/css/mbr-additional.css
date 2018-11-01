@@ -92,12 +92,15 @@ body {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  padding: 1rem 3rem;
-  border-radius: 3px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   word-break: break-word;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+  display: -webkit-inline-flex;
+  padding: 1rem 3rem;
+  border-radius: 3px;
 }
 .btn-sm {
   font-weight: 500;
@@ -608,6 +611,7 @@ a:hover {
   left: 30%;
   bottom: 30%;
   transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
 }
 /* Others*/
 .note-check a[data-value=Rubik] {
@@ -648,6 +652,7 @@ a:hover {
   position: absolute;
   transform: rotate(45deg);
   width: 14px;
+  -webkit-transform: rotate(45deg);
 }
 .form-control {
   background-color: #f5f5f5;
@@ -709,6 +714,7 @@ pre {
 }
 .mbr-section__comments .row {
   justify-content: center;
+  -webkit-justify-content: center;
 }
 /* Forms */
 .mbr-form .btn {
@@ -1160,10 +1166,7 @@ pre {
     align-items: center;
   }
   .navbar-toggleable-sm .navbar-collapse {
-    display: -webkit-box !important;
-    display: -webkit-flex !important;
-    display: -ms-flexbox !important;
-    display: flex !important;
+    display: none;
     width: 100%;
   }
   .navbar-toggleable-sm .navbar-toggler {
@@ -1351,6 +1354,7 @@ pre {
 }
 .menu .navbar.collapsed:not(.beta-menu) {
   flex-direction: column;
+  -webkit-flex-direction: column;
 }
 .carousel-item.active,
 .carousel-item-next,
@@ -1851,38 +1855,6 @@ body {
   .cid-r3ZmfTMvZ9 .inner-container {
     width: 100% !important;
   }
-}
-.cid-r3BZT21aCu {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-r3BZT21aCu .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-  background: linear-gradient(#ffffff, #ffffff);
-  border: none;
-}
-.cid-r3BZT21aCu .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-r3BZT21aCu .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-r3BZT21aCu H1 {
-  color: #09fcfa;
-}
-.cid-r3BZT21aCu .mbr-text,
-.cid-r3BZT21aCu .mbr-section-btn {
-  color: #1d242e;
-  text-align: left;
-}
-.cid-r3BZT21aCu .mbr-text,
-.cid-r3BZT21aCu .mbr-section-btn P {
-  text-align: left;
 }
 .cid-r3BRs6STUF .navbar {
   padding: .5rem 0;

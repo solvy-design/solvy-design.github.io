@@ -1852,38 +1852,6 @@ body {
     width: 100% !important;
   }
 }
-.cid-r3BZT21aCu {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-r3BZT21aCu .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-  background: linear-gradient(#ffffff, #ffffff);
-  border: none;
-}
-.cid-r3BZT21aCu .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-r3BZT21aCu .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-r3BZT21aCu H1 {
-  color: #09fcfa;
-}
-.cid-r3BZT21aCu .mbr-text,
-.cid-r3BZT21aCu .mbr-section-btn {
-  color: #1d242e;
-  text-align: left;
-}
-.cid-r3BZT21aCu .mbr-text,
-.cid-r3BZT21aCu .mbr-section-btn P {
-  text-align: left;
-}
 .cid-r3BRs6STUF .navbar {
   padding: .5rem 0;
   background: #1d242e;

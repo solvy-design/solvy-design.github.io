@@ -2013,6 +2013,33 @@ body {
 .cid-raC5s9IeXO .card-img {
   color: #ffffff;
 }
+.cid-raGLkHqTif {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/solvyteam-3.jpg");
+}
+@media (min-width: 992px) {
+  .cid-raGLkHqTif .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-raGLkHqTif .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-raGLkHqTif .mbr-text {
+    text-align: center;
+  }
+}
+.cid-raGLkHqTif .mbr-text,
+.cid-raGLkHqTif .mbr-section-btn {
+  color: #1b232d;
+}
+.cid-raGLkHqTif H1 {
+  color: #0ab5f8;
+}
 .cid-raC1gRbxfA {
   padding-top: 30px;
   padding-bottom: 30px;

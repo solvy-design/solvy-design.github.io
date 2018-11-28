@@ -1,4 +1,8 @@
 @font-face {
+   font-family: 'nulshock bd';
+   src: url('nulshock bd/font.ttf');
+}
+@font-face {
    font-family: 'Prototype';
    src: url('Prototype/font.ttf');
 }

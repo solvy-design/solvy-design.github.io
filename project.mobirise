@@ -13,7 +13,7 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
+        "display1Font": "nulshock bd",
         "display1Size": "3",
         "display2Font": "Prototype",
         "display2Size": 3,
@@ -43,16 +43,16 @@
         "url": "https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i"
       },
       {
-        "css": "'nulshock bd'",
-        "name": "nulshock bd",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/nulshock%20bd/font.ttf"
-      },
-      {
         "css": "'Prototype'",
         "name": "Prototype",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/Prototype/font.ttf"
+      },
+      {
+        "css": "'nulshock bd'",
+        "name": "nulshock bd",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/nulshock%20bd/font.ttf"
       }
     ],
     "versionFirst": "4.7.6",

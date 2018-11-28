@@ -2,7 +2,6 @@
 
 
 
-
 body {
   font-style: normal;
   line-height: 1.5;
@@ -26,7 +25,7 @@ body {
   font-size: 4.8rem;
 }
 .display-2 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Prototype';
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -1372,9 +1371,9 @@ body {
   display: none;
 }
 .cid-raBEFAPFjF {
-  padding-top: 120px;
+  padding-top: 75px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/webside-banner-2.jpg");
+  background-image: url("../../../assets/images/webside-banner.jpg");
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -1955,6 +1954,9 @@ body {
 .cid-raC2twtVxs B {
   color: #0ab5f8;
 }
+.cid-raC2twtVxs H1 {
+  color: #1b232d;
+}
 .cid-raC7pBfLmx {
   padding-top: 0px;
   padding-bottom: 30px;
@@ -2036,7 +2038,7 @@ body {
 .cid-raGLkHqTif {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/solvyteam-3.jpg");
+  background-image: url("../../../assets/images/solvyteam-31.jpg");
 }
 @media (min-width: 992px) {
   .cid-raGLkHqTif .mbr-figure {
@@ -2063,7 +2065,7 @@ body {
 .cid-raC1gRbxfA {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #1b232d;
 }
 .cid-raC1gRbxfA .row-links {
   width: 100%;
@@ -2131,7 +2133,7 @@ body {
   width: 100%;
 }
 .cid-raC1gRbxfA .media-container-row .mbr-text {
-  color: #1b232d;
+  color: #ffffff;
 }
 .cid-raC1gRbxfA foot-menu-item {
   color: #1b232d;

@@ -1766,7 +1766,7 @@ body {
   color: #0ab5f8 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/pointing-on-product-2000x1333.jpg");
+  background-image: url("../../../assets/images/pointing-on-product.jpg");
 }
 .cid-qTkA127IK8 H1 {
   text-align: right;
@@ -2012,6 +2012,26 @@ body {
 .cid-raC5s9IeXO .card-title,
 .cid-raC5s9IeXO .card-img {
   color: #ffffff;
+}
+.cid-raH147THwR {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-raH147THwR h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-raH147THwR p {
+  color: #767676;
+  text-align: left;
+}
+.cid-raH147THwR .card-box {
+  padding-top: 2rem;
+}
+.cid-raH147THwR .card-wrapper {
+  height: 100%;
 }
 .cid-raGLkHqTif {
   padding-top: 90px;
